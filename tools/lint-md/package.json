@@ -10,7 +10,7 @@
     "remark-preset-lint-node": "^3.3.0",
     "remark-stringify": "^10.0.2",
     "to-vfile": "^7.2.2",
-    "unified": "^10.1.1",
+    "unified": "^10.1.2",
     "vfile-reporter": "^7.0.3"
   },
   "devDependencies": {
